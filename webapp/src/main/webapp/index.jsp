@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h2> Deploying on a VM by Laxman </h2>
+    <h2> Deploying on a VM by Laxman in Docker for the first time</h2>
     <p>Please fill in this form happly to create an account of your in out company.</p>
     <hr>
      
