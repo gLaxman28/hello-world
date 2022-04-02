@@ -5,7 +5,7 @@
     <p>Please fill in this form happly to create an account of your in out company list.</p>
     <hr>
      
-    <label for="Name"><b>Enter full Name</b></label>
+    <label for="Name with initial"><b>Enter full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
