@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <h2> Deploying on a VM by Laxman in Docker for the first time please enter below details</h2>
-    <p>Please fill in this form happly to create an account of your in out company list.</p>
+    <p>Please fill in this form happly to create an account of your in out company list:).</p>
     <hr>
      
     <label for="Name with initial"><b>Enter full Name</b></label>
