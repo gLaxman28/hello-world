@@ -1,7 +1,9 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
+
     <h2> Deploying on a VM by Laxman in Docker for the first time please enter below details</h2>
+   
     <p>Please fill in this form happly to create an account of your in out company list:).</p>
     <hr>
      
@@ -26,6 +28,7 @@
     <hr>
     <br>
     <p>By creating an account you agree to our for you guys <a href="#">Terms & Privacy</a>.</p>
+    
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
