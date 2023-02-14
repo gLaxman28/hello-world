@@ -1,0 +1,27 @@
+---
+- hosts: IP address or Name
+  become: True # to give root permitions
+  tasks:
+  - name: Install apache server
+   yum:
+     name: httpd
+     state: present
+  - name: enable apache on reboot
+    service:
+      name: httpd
+      enable: True
+  - name: Install git
+    yum:
+      name: git
+      state: present
+  - name: deploy website from git
+    git:
+      repo: https://github.com/gLaxman28/hello-world.git
+      dest:            # destination folder in the apachi server /var/www/html/
+  - name: restart apache
+    service:
+      name: httpd
+      state: restarted
+...
+
+
